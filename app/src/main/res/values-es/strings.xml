@@ -113,17 +113,17 @@
     <string name="app_password_hint">Pista de Contraseña de la Aplicación</string>
     <string name="biometric_disabled_due_to_timeout">Por favor, ingrese a través de contraseña porque no ha usado contraseña en las últimas 24 horas</string>
     <string name="invalid_csv">Archivo CSV inválido</string>
-    <string name="validate">Check</string>
+    <string name="validate">Verificación</string>
     <string name="keyphrase_validate_info">Por favor, introduzca la frase clave que utilizó para crear su respaldo. De vez en cuando mostraremos esta pantalla para ayudarte a recordarla.</string>
-    <string name="validate_keyphrase">Keyphrase Check</string>
+    <string name="validate_keyphrase">Verificación de palabras clave</string>
     <string name="valid_keyphrase">Valide Keyphrase</string>
     <string name="mismatch_keyphrase">Keyphrase entra no coincide con la clave de respaldo</string>
     <string name="got_it">Lo tengo</string>
     <string name="forgot_keyphrase">Olvidé Keyphrase</string>
     <string name="forgot_keyphrase_question">¿Olvidó Keyphrase?</string>
     <string name="forgot_keyphrase_info">Si no puedes recordar tu frase clave, la única manera de recuperar el acceso es apagar las copias de seguridad y luego encenderlas. Esto generará un nuevo archivo de copia de seguridad y una nueva clave.\nNota: Su antiguo respaldo será inaccesible.</string>
-    <string name="biometric_login_timeout">Biometric Login Timeout (24 hrs)</string>
-    <string name="autofill_service">AutoFill Service</string>
+    <string name="biometric_login_timeout">Tiempo de espera agotado para el inicio de sesión biométrico (24 hrs)</string>
+    <string name="autofill_service">Servicio de autocompletado</string>
     <string name="autofill_service_enable">Activar el servicio de automatización</string>
     <string name="autofill_service_disable">Servicio de automatización deshabilitado</string>
     <string name="autofill_not_available">Sólo está disponible en androide 10 y superior</string>
@@ -135,6 +135,6 @@
     <string name="auto_lock">Cierre automático en el fondo</string>
     <string name="contact_developer">Desarrollador de contacto</string>
     <string name="contact_via_email">Enviar un correo electrónico para soporte, comentarios o sugerencias</string>
-    <string name="choose_default_password_length">Seleccione la duración de la contraseña predeterminada</string>
+    <string name="choose_default_password_length">Elija la duración de la contraseña predeterminada</string>
     <string name="choose_default_password_length_desc">Esta longitud se utilizará como predeterminado al generar nuevas contraseñas. Las contraseñas más largas proporcionan una mejor seguridad.</string>
 </resources>
